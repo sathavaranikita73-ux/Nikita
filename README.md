@@ -36,6 +36,7 @@
 ---
 
 ### 📜 Certifications
+- Data Analyst [ Adani Skill Development Center ]
 - SQL Certification  
 - Excel Certification  
 - Power BI Certification
