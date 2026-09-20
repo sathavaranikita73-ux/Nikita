@@ -42,7 +42,7 @@
 - Power BI Certification
 
 <p align="center">
-  <a href="C:\Users\admin\OneDrive\Desktop\NIKITA\ADANI WORK FILES ALL\Nikita_Sathavara_Resume.pdf" target="_blank">
+  <a href="./Resume/Nikita_Sathavara_Resume.pdf" target="_blank">
     📄 <strong>View My Resume</strong>
   </a>
 </p>
