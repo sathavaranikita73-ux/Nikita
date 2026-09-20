@@ -40,3 +40,11 @@
 - SQL Certification  
 - Excel Certification  
 - Power BI Certification
+
+---
+
+### 📜 My Resume
+- C:\Users\admin\OneDrive\Desktop\NIKITA\ADANI WORK FILES ALL\Nikita_Sathavara_Resume.pdf
+
+
+
