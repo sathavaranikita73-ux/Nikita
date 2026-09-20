@@ -42,7 +42,7 @@
 - Power BI Certification
 
 <p align="center">
-  <a href="./Resume/Nikita_Sathavara_Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1TI2rMSH7GfbKsLZoRddtVNDz-LWPqiK3/view?usp=drive_link" target="_blank">
     📄 <strong>View My Resume</strong>
   </a>
 </p>
